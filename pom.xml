@@ -15,7 +15,7 @@
 		<slf4j.version>1.7.25</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<druid.verison>1.0.29</druid.verison>
-		<spring.verison>4.3.8.RELEASE</spring.verison>
+		<spring.verison>6.0.0</spring.verison>
 		<jackson.version>2.9.4</jackson.version>
 		<jdbc.version>5.1.31</jdbc.version>
 	</properties>
